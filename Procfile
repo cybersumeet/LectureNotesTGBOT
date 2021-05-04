@@ -1,1 +1,2 @@
-worker: python3 lecturenote.py
+worker: python lecturenote.py
+web: python lecturenote.py
