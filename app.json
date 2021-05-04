@@ -1,0 +1,6 @@
+{
+  "name": "LectureNotes TG Bot",
+  "description": "A lecturenotes dl bot for heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/cybersumeet/LectureNotesTGBOT"
+}
